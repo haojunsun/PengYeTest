@@ -1,0 +1,12 @@
+D:\loding\work\PengYeTest\PengYe.Project.Repository\bin\Debug\PengYe.Project.Repository.dll.config
+D:\loding\work\PengYeTest\PengYe.Project.Repository\bin\Debug\PengYe.Project.Repository.dll
+D:\loding\work\PengYeTest\PengYe.Project.Repository\bin\Debug\PengYe.Project.Repository.pdb
+D:\loding\work\PengYeTest\PengYe.Project.Repository\bin\Debug\EntityFramework.dll
+D:\loding\work\PengYeTest\PengYe.Project.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\loding\work\PengYeTest\PengYe.Project.Repository\bin\Debug\PengYe.Project.Infrastructure.dll
+D:\loding\work\PengYeTest\PengYe.Project.Repository\bin\Debug\PengYe.Project.Infrastructure.pdb
+D:\loding\work\PengYeTest\PengYe.Project.Repository\bin\Debug\EntityFramework.xml
+D:\loding\work\PengYeTest\PengYe.Project.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\loding\work\PengYeTest\PengYe.Project.Repository\obj\Debug\PengYe.Project.Repository.csprojResolveAssemblyReference.cache
+D:\loding\work\PengYeTest\PengYe.Project.Repository\obj\Debug\PengYe.Project.Repository.dll
+D:\loding\work\PengYeTest\PengYe.Project.Repository\obj\Debug\PengYe.Project.Repository.pdb

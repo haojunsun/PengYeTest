@@ -1,0 +1,5 @@
+D:\loding\work\PengYeTest\PengYe.Project.Infrastructure\bin\Debug\PengYe.Project.Infrastructure.dll
+D:\loding\work\PengYeTest\PengYe.Project.Infrastructure\bin\Debug\PengYe.Project.Infrastructure.pdb
+D:\loding\work\PengYeTest\PengYe.Project.Infrastructure\obj\Debug\PengYe.Project.Infrastructure.csprojResolveAssemblyReference.cache
+D:\loding\work\PengYeTest\PengYe.Project.Infrastructure\obj\Debug\PengYe.Project.Infrastructure.dll
+D:\loding\work\PengYeTest\PengYe.Project.Infrastructure\obj\Debug\PengYe.Project.Infrastructure.pdb
