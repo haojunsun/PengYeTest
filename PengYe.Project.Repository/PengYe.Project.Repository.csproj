@@ -60,6 +60,10 @@
       <Project>{4682c1b6-bf7d-43bf-a3de-c39040288657}</Project>
       <Name>PengYe.Project.Infrastructure</Name>
     </ProjectReference>
+    <ProjectReference Include="..\PengYe.Project.Model\PengYe.Project.Model.csproj">
+      <Project>{d53fdb29-c7f4-47da-8f58-a3921acfdd19}</Project>
+      <Name>PengYe.Project.Model</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
