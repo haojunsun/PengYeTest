@@ -47,6 +47,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Migrations\201705040734357_InitialCreate.cs" />
+    <Compile Include="Migrations\201705040734357_InitialCreate.Designer.cs">
+      <DependentUpon>201705040734357_InitialCreate.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="MyDbContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -64,6 +68,11 @@
       <Project>{d53fdb29-c7f4-47da-8f58-a3921acfdd19}</Project>
       <Name>PengYe.Project.Model</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201705040734357_InitialCreate.resx">
+      <DependentUpon>201705040734357_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

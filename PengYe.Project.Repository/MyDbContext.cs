@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using PengYe.Project.Infrastructure;
+using PengYe.Project.Model;
 
 namespace PengYe.Project.Repository
 {
@@ -14,5 +15,6 @@ namespace PengYe.Project.Repository
         {
 
         }
+        public DbSet<Article> Articles { get; set; }
     }
 }

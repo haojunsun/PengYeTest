@@ -10,3 +10,8 @@ D:\loding\work\PengYeTest\PengYe.Project.Repository\bin\Debug\EntityFramework.Sq
 D:\loding\work\PengYeTest\PengYe.Project.Repository\obj\Debug\PengYe.Project.Repository.csprojResolveAssemblyReference.cache
 D:\loding\work\PengYeTest\PengYe.Project.Repository\obj\Debug\PengYe.Project.Repository.dll
 D:\loding\work\PengYeTest\PengYe.Project.Repository\obj\Debug\PengYe.Project.Repository.pdb
+D:\loding\work\PengYeTest\PengYe.Project.Repository\bin\Debug\PengYe.Project.Model.dll
+D:\loding\work\PengYeTest\PengYe.Project.Repository\bin\Debug\PengYe.Project.Model.pdb
+D:\loding\work\PengYeTest\PengYe.Project.Repository\bin\Debug\PengYe.Project.Model.dll.config
+D:\loding\work\PengYeTest\PengYe.Project.Repository\obj\Debug\PengYe.Project.Repository.Migrations.InitialCreate.resources
+D:\loding\work\PengYeTest\PengYe.Project.Repository\obj\Debug\PengYe.Project.Repository.csproj.GenerateResource.Cache
