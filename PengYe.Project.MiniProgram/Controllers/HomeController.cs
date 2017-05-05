@@ -30,12 +30,10 @@ namespace PengYe.Project.MiniProgram.Controllers
                 ChannelTags="ct"
             };
             model.Add(article);
-            _log.Debug("123123123123");
-            _log.Error("8888888888888888");
-            _log.Warn("9999999999999999");
-            _log.Info("0000000000000000000000000");
+          
             return View(model);
         }
+
 
         public ActionResult About()
         {
