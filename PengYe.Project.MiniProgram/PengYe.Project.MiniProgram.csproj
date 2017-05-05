@@ -51,6 +51,12 @@
     <Reference Include="Autofac.Integration.Mvc, Version=4.0.0.0, Culture=neutral, PublicKeyToken=17863af14b0044da, processorArchitecture=MSIL">
       <HintPath>..\packages\Autofac.Mvc5.4.0.2\lib\net45\Autofac.Integration.Mvc.dll</HintPath>
     </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
     </Reference>
@@ -192,6 +198,7 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Configuration\Log4Net.config" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -241,6 +248,18 @@
     <ProjectReference Include="..\PengYe.Project.Infrastructure\PengYe.Project.Infrastructure.csproj">
       <Project>{4682c1b6-bf7d-43bf-a3de-c39040288657}</Project>
       <Name>PengYe.Project.Infrastructure</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PengYe.Project.Log\PengYe.Project.Log.csproj">
+      <Project>{df44e3c4-67ed-421d-b369-db6132b9aa91}</Project>
+      <Name>PengYe.Project.Log</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PengYe.Project.Model\PengYe.Project.Model.csproj">
+      <Project>{d53fdb29-c7f4-47da-8f58-a3921acfdd19}</Project>
+      <Name>PengYe.Project.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PengYe.Project.Services\PengYe.Project.Services.csproj">
+      <Project>{10e55f1e-d73d-4ed9-970b-8301bbf9e8e0}</Project>
+      <Name>PengYe.Project.Services</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

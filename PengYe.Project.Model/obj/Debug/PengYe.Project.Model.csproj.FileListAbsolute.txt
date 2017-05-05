@@ -3,8 +3,3 @@ D:\loding\work\PengYeTest\PengYe.Project.Model\bin\Debug\PengYe.Project.Model.pd
 D:\loding\work\PengYeTest\PengYe.Project.Model\obj\Debug\PengYe.Project.Model.csprojResolveAssemblyReference.cache
 D:\loding\work\PengYeTest\PengYe.Project.Model\obj\Debug\PengYe.Project.Model.dll
 D:\loding\work\PengYeTest\PengYe.Project.Model\obj\Debug\PengYe.Project.Model.pdb
-D:\loding\work\PengYeTest\PengYe.Project.Model\bin\Debug\PengYe.Project.Model.dll.config
-D:\loding\work\PengYeTest\PengYe.Project.Model\bin\Debug\EntityFramework.dll
-D:\loding\work\PengYeTest\PengYe.Project.Model\bin\Debug\EntityFramework.SqlServer.dll
-D:\loding\work\PengYeTest\PengYe.Project.Model\bin\Debug\EntityFramework.xml
-D:\loding\work\PengYeTest\PengYe.Project.Model\bin\Debug\EntityFramework.SqlServer.xml

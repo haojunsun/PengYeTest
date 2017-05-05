@@ -7,3 +7,14 @@ D:\loding\work\PengYeTest\PengYe.Project.Log\bin\Debug\log4net.xml
 D:\loding\work\PengYeTest\PengYe.Project.Log\obj\Debug\PengYe.Project.Log.csprojResolveAssemblyReference.cache
 D:\loding\work\PengYeTest\PengYe.Project.Log\obj\Debug\PengYe.Project.Log.dll
 D:\loding\work\PengYeTest\PengYe.Project.Log\obj\Debug\PengYe.Project.Log.pdb
+D:\loding\work\PengYeTest\PengYe.Project.Log\bin\Debug\Autofac.dll
+D:\loding\work\PengYeTest\PengYe.Project.Log\bin\Debug\Owin.dll
+D:\loding\work\PengYeTest\PengYe.Project.Log\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\loding\work\PengYeTest\PengYe.Project.Log\bin\Debug\Microsoft.Owin.Security.dll
+D:\loding\work\PengYeTest\PengYe.Project.Log\bin\Debug\Microsoft.Owin.dll
+D:\loding\work\PengYeTest\PengYe.Project.Log\bin\Debug\Autofac.xml
+D:\loding\work\PengYeTest\PengYe.Project.Log\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\loding\work\PengYeTest\PengYe.Project.Log\bin\Debug\Microsoft.Owin.Security.xml
+D:\loding\work\PengYeTest\PengYe.Project.Log\bin\Debug\Microsoft.Owin.xml
+D:\loding\work\PengYeTest\PengYe.Project.Log\bin\Debug\zh-Hans\Microsoft.Owin.Security.resources.dll
+D:\loding\work\PengYeTest\PengYe.Project.Log\bin\Debug\zh-Hans\Microsoft.Owin.resources.dll
