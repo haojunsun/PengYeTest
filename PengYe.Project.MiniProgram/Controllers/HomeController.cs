@@ -34,6 +34,7 @@ namespace PengYe.Project.MiniProgram.Controllers
             _log.Error("8888888888888888");
             _log.Warn("9999999999999999");
             _log.Info("0000000000000000000000000");
+            _log.Debug("1212");
             return View(model);
         }
 
