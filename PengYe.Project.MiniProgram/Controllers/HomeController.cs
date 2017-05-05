@@ -30,8 +30,10 @@ namespace PengYe.Project.MiniProgram.Controllers
                 ChannelTags="ct"
             };
             model.Add(article);
+          
             return View(model);
         }
+
 
         public ActionResult About()
         {
