@@ -10,6 +10,7 @@ namespace PengYe.Project.MiniProgram.Controllers
     {
         public ActionResult Index()
         {
+            string s = "";
             return View();
         }
 
