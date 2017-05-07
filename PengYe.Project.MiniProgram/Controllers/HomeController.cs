@@ -35,6 +35,11 @@ namespace PengYe.Project.MiniProgram.Controllers
         }
 
 
+        public ActionResult Test()
+        {
+            return View();
+        }
+
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
