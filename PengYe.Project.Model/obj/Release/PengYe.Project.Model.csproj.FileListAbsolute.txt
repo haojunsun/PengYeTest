@@ -2,3 +2,7 @@ D:\loding\work\PengYeTest\PengYe.Project.Model\bin\Release\PengYe.Project.Model.
 D:\loding\work\PengYeTest\PengYe.Project.Model\bin\Release\PengYe.Project.Model.pdb
 D:\loding\work\PengYeTest\PengYe.Project.Model\obj\Release\PengYe.Project.Model.dll
 D:\loding\work\PengYeTest\PengYe.Project.Model\obj\Release\PengYe.Project.Model.pdb
+G:\ProjectList\捧爷\PengYe.Project\PengYe.Project.Model\bin\Release\PengYe.Project.Model.dll
+G:\ProjectList\捧爷\PengYe.Project\PengYe.Project.Model\bin\Release\PengYe.Project.Model.pdb
+G:\ProjectList\捧爷\PengYe.Project\PengYe.Project.Model\obj\Release\PengYe.Project.Model.dll
+G:\ProjectList\捧爷\PengYe.Project\PengYe.Project.Model\obj\Release\PengYe.Project.Model.pdb
