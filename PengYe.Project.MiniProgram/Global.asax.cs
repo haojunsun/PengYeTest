@@ -19,6 +19,9 @@ namespace PengYe.Project.MiniProgram
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+
+            //程序启动注入
+            //AutoFacBootStrapper.CoreAutoFacInit();
         }
     }
 }

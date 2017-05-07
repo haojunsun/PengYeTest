@@ -1,0 +1,68 @@
+------------------------------------------------------------
+------------------------------------------------------------
+
+ 2017-05-07 15:02:28,033 [8] - 上传文件
+------------------------------------------------------------
+
+ 2017-05-07 15:11:48,150 [6] - 上传文件
+------------------------------------------------------------
+
+ 2017-05-07 15:19:38,340 [10] - 上传文件
+------------------------------------------------------------
+
+ 2017-05-07 15:21:23,132 [7] - 上传文件
+
+ 2017-05-07 15:21:41,067 [6] - 控件id：files
+
+ 2017-05-07 15:21:42,846 [6] - 名称：IMG_4910.JPG
+
+ 2017-05-07 15:21:45,193 [6] - 类型：jpg
+------------------------------------------------------------
+
+ 2017-05-07 15:26:05,333 [11] - 上传文件
+
+ 2017-05-07 15:26:15,700 [8] - 控件id：files
+
+ 2017-05-07 15:26:17,827 [8] - 名称：IMG_4920.JPG
+
+ 2017-05-07 15:26:20,372 [8] - 类型：jpg
+
+ 2017-05-07 15:26:44,629 [8] - bdb5bee5-a5dc-452b-a09e-1a7cf6676652.jpg
+
+ 2017-05-07 15:27:32,895 [11] - 上传文件
+
+ 2017-05-07 15:27:34,870 [11] - System.IO.IOException: 读取 MIME 多节正文部分时出错。 ---> System.Web.HttpException: 超过了最大请求长度。
+   在 System.Web.HttpBufferlessInputStream.ValidateRequestEntityLength()
+   在 System.Web.HttpBufferlessInputStream.GetPreloadedContent(Byte[] buffer, Int32& offset, Int32& count)
+   在 System.Web.HttpBufferlessInputStream.BeginRead(Byte[] buffer, Int32 offset, Int32 count, AsyncCallback callback, Object state)
+   在 System.IO.Stream.<>c.<BeginEndReadAsync>b__43_0(Stream stream, ReadWriteParameters args, AsyncCallback callback, Object state)
+   在 System.Threading.Tasks.TaskFactory`1.FromAsyncTrim[TInstance,TArgs](TInstance thisRef, TArgs args, Func`5 beginMethod, Func`3 endMethod)
+   在 System.IO.Stream.BeginEndReadAsync(Byte[] buffer, Int32 offset, Int32 count)
+   在 System.IO.Stream.ReadAsync(Byte[] buffer, Int32 offset, Int32 count, CancellationToken cancellationToken)
+   在 System.Web.Http.WebHost.SeekableBufferedRequestStream.<ReadAsync>d__0.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Net.Http.HttpContentMultipartExtensions.<MultipartReadAsync>d__8.MoveNext()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.Http.HttpContentMultipartExtensions.<MultipartReadAsync>d__8.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Net.Http.HttpContentMultipartExtensions.<ReadAsMultipartAsync>d__0`1.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 PengYe.Project.MiniProgram.Controllers.UploadController.<FilePost>d__2.MoveNext() 位置 G:\ProjectList\捧爷\PengYe.Project\PengYe.Project.MiniProgram\Controllers\UploadController.cs:行号 53
+------------------------------------------------------------
+
+ 2017-05-07 15:31:22,061 [5] - 上传文件
+
+ 2017-05-07 15:31:27,069 [5] - 控件id：files
+
+ 2017-05-07 15:31:27,069 [5] - 名称：test.flv
+
+ 2017-05-07 15:31:27,069 [5] - 类型：flv
+
+ 2017-05-07 15:31:33,065 [5] - 1172fa38-c71d-4d49-bfdd-4bc675d760f9.flv

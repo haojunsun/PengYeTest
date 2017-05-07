@@ -232,3 +232,5 @@ G:\ProjectList\捧爷\PengYe.Project\PengYe.Project.MiniProgram\bin\zh-Hans\Syst
 G:\ProjectList\捧爷\PengYe.Project\PengYe.Project.MiniProgram\obj\Release\PengYe.Project.MiniProgram.csprojResolveAssemblyReference.cache
 G:\ProjectList\捧爷\PengYe.Project\PengYe.Project.MiniProgram\obj\Release\PengYe.Project.MiniProgram.dll
 G:\ProjectList\捧爷\PengYe.Project\PengYe.Project.MiniProgram\obj\Release\PengYe.Project.MiniProgram.pdb
+G:\ProjectList\捧爷\PengYe.Project\PengYe.Project.MiniProgram\bin\Autofac.Integration.WebApi.dll
+G:\ProjectList\捧爷\PengYe.Project\PengYe.Project.MiniProgram\bin\Autofac.Integration.WebApi.xml
