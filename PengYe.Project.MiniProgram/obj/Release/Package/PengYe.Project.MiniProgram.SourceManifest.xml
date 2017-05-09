@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <sitemanifest>
-  <IisApp path="G:\ProjectList\捧爷\PengYe.Project\PengYe.Project.MiniProgram\obj\Release\Package\PackageTmp" />
-  <setAcl path="G:\ProjectList\捧爷\PengYe.Project\PengYe.Project.MiniProgram\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
-  <setAcl path="G:\ProjectList\捧爷\PengYe.Project\PengYe.Project.MiniProgram\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+  <IisApp path="D:\loding\work\PengYeTest\PengYe.Project.MiniProgram\obj\Release\Package\PackageTmp" />
+  <setAcl path="D:\loding\work\PengYeTest\PengYe.Project.MiniProgram\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="D:\loding\work\PengYeTest\PengYe.Project.MiniProgram\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
 </sitemanifest>

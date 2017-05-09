@@ -234,3 +234,5 @@ G:\ProjectList\捧爷\PengYe.Project\PengYe.Project.MiniProgram\obj\Debug\PengYe
 G:\ProjectList\捧爷\PengYe.Project\PengYe.Project.MiniProgram\obj\Debug\PengYe.Project.MiniProgram.pdb
 G:\ProjectList\捧爷\PengYe.Project\PengYe.Project.MiniProgram\bin\Autofac.Integration.WebApi.dll
 G:\ProjectList\捧爷\PengYe.Project\PengYe.Project.MiniProgram\bin\Autofac.Integration.WebApi.xml
+D:\loding\work\PengYeTest\PengYe.Project.MiniProgram\bin\Autofac.Integration.WebApi.dll
+D:\loding\work\PengYeTest\PengYe.Project.MiniProgram\bin\Autofac.Integration.WebApi.xml

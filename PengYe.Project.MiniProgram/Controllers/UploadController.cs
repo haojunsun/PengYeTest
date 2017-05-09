@@ -85,9 +85,65 @@ namespace PengYe.Project.MiniProgram.Controllers
 
             return _result;
         }
+
+        [System.Web.Http.HttpGet]
+        public ReturnData GetData()
+        {
+            var model = new ReturnData();
+            model.data=new ReturnModel();
+            model.errcode = 0;
+            model.errmsg = "success";
+            model.data.receiving_address=new receivingaddress();
+
+            model.data.user_id = "2342";
+            model.data.nickname = "just for test";
+            model.data.sex = 0;
+            model.data.icon_url = "https://www.baidu.com/img/bd_logo1.png";
+            model.data.birthday = "2017.12.1 ";
+            model.data.tel = "18634302121";
+            model.data.money = "321";
+
+            model.data.receiving_address.rec_user = "小三";
+            model.data.receiving_address.rec_tel = "178493482392";
+            model.data.receiving_address.rec_area = "北京市朝阳区";
+            model.data.receiving_address.rec_address = "西三旗海淀黄庄";
+            model.data.receiving_address.is_default = 0;
+            return model;
+            //return null;
+        }
+
     }
 
+    public class ReturnData
+    {
+        public ReturnModel data { get; set; }
+        public int errcode { get; set; }
+        public string errmsg { get; set; }   
+    }
 
+    public class ReturnModel
+    {
+        public string user_id { get; set; }
+        public string nickname { get; set; }
+        public int sex { get; set; }
+        public string icon_url { get; set; }
+        public string birthday { get; set; }
+        public string tel { get; set; }
+        public string money { get; set; }
+        public receivingaddress receiving_address { get; set; }
+        public string pay_password { get; set; }
+
+    }
+
+    public class receivingaddress
+    {
+        public string rec_user { get; set; }
+        public string rec_tel { get; set; }
+        public string rec_area { get; set; }
+
+        public string rec_address { get; set; }
+        public int is_default { get; set; }
+    }
 
     public interface IResponse
     {
