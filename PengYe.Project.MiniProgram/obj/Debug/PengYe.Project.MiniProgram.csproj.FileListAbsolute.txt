@@ -236,3 +236,7 @@ G:\ProjectList\捧爷\PengYe.Project\PengYe.Project.MiniProgram\bin\Autofac.Inte
 G:\ProjectList\捧爷\PengYe.Project\PengYe.Project.MiniProgram\bin\Autofac.Integration.WebApi.xml
 D:\loding\work\PengYeTest\PengYe.Project.MiniProgram\bin\Autofac.Integration.WebApi.dll
 D:\loding\work\PengYeTest\PengYe.Project.MiniProgram\bin\Autofac.Integration.WebApi.xml
+D:\loding\work\PengYeTest\PengYe.Project.MiniProgram\bin\Swashbuckle.Core.dll
+D:\loding\work\PengYeTest\PengYe.Project.MiniProgram\bin\WebActivator.dll
+D:\loding\work\PengYeTest\PengYe.Project.MiniProgram\bin\WebActivatorEx.dll
+D:\loding\work\PengYeTest\PengYe.Project.MiniProgram\bin\SwaggerDemo.XML

@@ -13,6 +13,7 @@ namespace PengYe.Project.MiniProgram.Controllers
     {
         private readonly IArticleService _articleService;
         private readonly ILogService _log;
+
         public HomeController(IArticleService articleService,ILogService logService)
         {
             _articleService = articleService;

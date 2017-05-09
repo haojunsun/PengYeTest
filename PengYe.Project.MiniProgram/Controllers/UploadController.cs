@@ -9,7 +9,6 @@ using System.Runtime.Serialization;
 using System.Threading.Tasks;
 using System.Web;
 using System.Web.Http;
-using System.Web.Mvc;
 using PengYe.Project.Log;
 
 namespace PengYe.Project.MiniProgram.Controllers
@@ -112,11 +111,25 @@ namespace PengYe.Project.MiniProgram.Controllers
             //return null;
         }
 
+        /// <summary>
+        /// 测试接口文档显示
+        /// </summary>
+        /// <param name="id">id</param>
+        /// <returns></returns>
+        [Route("api/Upload/ReturnModel")]
+        public ReturnModel GetReturnModel(int id)
+        {
+            return  new ReturnModel();
+        }
+        
     }
 
     public class ReturnData
     {
         public ReturnModel data { get; set; }
+        /// <summary>
+        /// 错误code
+        /// </summary>
         public int errcode { get; set; }
         public string errmsg { get; set; }   
     }
